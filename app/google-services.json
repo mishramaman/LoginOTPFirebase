@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1073930261626",
+    "project_id": "loginotpfirebase-ccf24",
+    "storage_bucket": "loginotpfirebase-ccf24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073930261626:android:e488c5f13a558f79d8d7c3",
+        "android_client_info": {
+          "package_name": "com.example.loginotpfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073930261626-86sq4mbl346o22r7g935m462vepg35vt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginotpfirebase",
+            "certificate_hash": "8e4c2f49159ac4e611df1e9a96dad82b10571874"
+          }
+        },
+        {
+          "client_id": "1073930261626-eui7gpj9ota5dklhqqtoul7866qqbp8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ86vxb6vYusQqb3cBJWGfhJuUQ3O4jM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073930261626-eui7gpj9ota5dklhqqtoul7866qqbp8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
